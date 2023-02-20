@@ -7,6 +7,11 @@ Greenade is a decentralized carbon credit platform that allows customers to buy 
 3. Token - This is a normal ERC20 token, which is minted every time a project is verified, proportional to the mwh generated and is burnt when a customer wants to avail the carbon credit NFT.
 4. AMM - This is a smart contract used for market making the Token with stable coins or in this case (TFIL aka Testnet FIL).
 
+We are live on Hyperspace Testnet - 
+
+Token - 0xB4652c0BD9Df997a93b1CAa476e94336089F1b99
+Carbon Registry - 0xe061B68D9022D7776B9fBE24EE3d6e23e2008474
+
 ## Getting Started
 
 ### Prerequisites
