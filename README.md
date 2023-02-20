@@ -9,8 +9,10 @@ Greenade is a decentralized carbon credit platform that allows customers to buy 
 
 We are live on Hyperspace Testnet - 
 
-Token - 0xB4652c0BD9Df997a93b1CAa476e94336089F1b99
-Carbon Registry - 0xe061B68D9022D7776B9fBE24EE3d6e23e2008474
+Token - 0xB4652c0BD9Df997a93b1CAa476e94336089F1b99 (https://hyperspace.filfox.info/en/address/0xB4652c0BD9Df997a93b1CAa476e94336089F1b99)
+
+
+Carbon Registry - 0xe061B68D9022D7776B9fBE24EE3d6e23e2008474 (https://hyperspace.filfox.info/en/address/0xe061B68D9022D7776B9fBE24EE3d6e23e2008474)
 
 ## Getting Started
 
