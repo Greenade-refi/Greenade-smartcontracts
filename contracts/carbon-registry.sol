@@ -22,6 +22,7 @@ contract CarbonRegistry {
         address owner;
         uint256 mwh;
         bool verified;
+        bytes co2Cid;
     }
 
     // An array of projects
