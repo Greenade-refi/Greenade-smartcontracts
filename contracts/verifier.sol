@@ -21,6 +21,7 @@ contract Verifier {
 
     // A function to add an authorized verifier
     function addAuthorizedVerifier(address verifier) public {
+        // Safety check
         require(msg.sender == owner, "Only the owner can add an authorized verifier");
         require(verifier != address(0), "Invalid verifier address");
         authorizedVerifiers[verifier] = true;

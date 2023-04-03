@@ -7,8 +7,10 @@ import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 // Import the Verifier contract
 import "./Verifier.sol";
 
+
 // Define the CarbonRegistry contract
 contract CarbonRegistry {
+    // Safe math
     using SafeMath for uint256;
 
     // The address of the Token contract

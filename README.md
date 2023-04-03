@@ -1,4 +1,4 @@
-# Greenade
+# Greenade 
 
 Greenade is a decentralized carbon credit platform that allows customers to buy carbon credits from producers using tokens. The platform consists of four smart contracts written in Solidity: 
 
@@ -32,6 +32,7 @@ Carbon Registry - 0xe061B68D9022D7776B9fBE24EE3d6e23e2008474 (https://hyperspace
 
 To interact with the smart contracts, you can use the Truffle console or write scripts in JavaScript. Here's an example script that uses the CarbonRegistry contract:
 
+TODO: Update code to use CO2.storage
 ```javascript
 const CarbonRegistry = artifacts.require("CarbonRegistry");
 
